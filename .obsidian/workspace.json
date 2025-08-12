@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "Design Docs/Core Tenets Of The Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "Core Tenets Of The Game"
             }
           }
         ]
@@ -181,6 +181,10 @@
   "active": "ebd37f19d0d0e9b8",
   "lastOpenFiles": [
     "Home Page.md",
+    "Design Docs/Core Tenets Of The Game.md",
+    "Art",
+    "Design Docs",
+    "Lore",
     "Characters/Player Characters/!Retired",
     "Characters/Player Characters/Cello's Inevitable Char",
     "Characters/Player Characters/Stick Darkley/CharSheet.pdf",
@@ -199,9 +203,7 @@
     "Gear/Cyberware/MicrowaveEMP Shielding.md",
     "Gear/Cyberware/Bodyweight Vein Clips.md",
     "Sourcebooks/Chromebook 1-2.pdf",
-    "Sourcebooks/Chromebook 3-4.pdf",
     "Gear/Cyberware/Corvette Cyberlegs.md",
-    "Sourcebooks/Core Rulebook.pdf",
     "Gear/Cyberware/Chemical Analyser.md",
     "Gear/Cyberware/Cyberlegs.md",
     "Gear/Cyberware/Chipware Socket.md",
@@ -215,7 +217,6 @@
     "World/Australia/West Australia/Perth/Perth.md",
     "Haunting.md",
     "Characters/Player Characters/Rake Darkley/Rake Darkley.md",
-    "Gear/Cyberware",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
   ]
