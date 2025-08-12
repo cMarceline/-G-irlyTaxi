@@ -1,9 +1,9 @@
 > [!IMPORTANT]- Four State System
 > Four states of karting as follows
 # Driving
-Standard F-Zero/Wipeout style gameplay where you are bound to whatever surface you are on
+Standard [[F-Zero]]/[[Wipeout]] style gameplay where you are bound to whatever surface you are on
 # Flying
-When using Boosters when in air you will enter a fly state
+When **using [[Boost Gauge|Boosters]]** when in air you will enter a fly state
 You will burn through your [[Boost Gauge]] FAST while flying
 # Falling
 When not in [[#Driving]] or [[#Flying]] state you will simply fall

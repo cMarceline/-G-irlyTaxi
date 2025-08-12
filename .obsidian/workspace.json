@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Ideas to Action.md",
+                "file": "Marcie's Instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random Ideas to Action"
+              "title": "Marcie's Instructions"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Ideas to Action.md",
+                "file": "Marcie's Instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Random Ideas to Action"
+              "title": "Backlinks for Marcie's Instructions"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Ideas to Action.md",
+                "file": "Marcie's Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Random Ideas to Action"
+              "title": "Outgoing links from Marcie's Instructions"
             }
           },
           {
@@ -196,14 +196,18 @@
   "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
     "Karting/Timer.md",
-    "Random Ideas to Action.md",
-    "Karting/Boost Gauge.md",
     "Karting/Karting States.md",
+    "Karting/Boost Gauge.md",
+    "Design Docs/Core Tenets Of The Game.md",
+    "Influences/Wipeout.md",
+    "Influences/F-Zero.md",
+    "Influences/Crazy Taxi.md",
+    "Influences",
+    "Random Ideas.md",
     "World/World.md",
     "Home Page.md",
     "Marcie's Instructions.md",
     "Todo List.md",
-    "Design Docs/Core Tenets Of The Game.md",
     "World",
     "Karting",
     "conflict-files-obsidian-git.md",
@@ -223,14 +227,10 @@
     "Gear/Cyberware/Speedware.md",
     "Sourcebooks/Pacific Rim.md",
     "Gear/Weapons",
-    "Gear",
     "Gear/Cyberware/MicrowaveEMP Shielding.md",
     "Gear/Cyberware/Bodyweight Vein Clips.md",
     "Gear/Cyberware/Corvette Cyberlegs.md",
     "Gear/Cyberware/Chemical Analyser.md",
-    "Gear/Cyberware/Cyberlegs.md",
-    "Gear/Cyberware/Chipware Socket.md",
-    "World/Australia/West Australia/Perth/Districts/Red District.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"

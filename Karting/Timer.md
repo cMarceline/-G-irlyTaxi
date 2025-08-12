@@ -1,2 +1,1 @@
-Critical tenet of F-Zero
-# SHOULD THERE BE SEPARATED TIMER AND HEALTH???
+Critical tenet of [[Crazy Taxi]], 
