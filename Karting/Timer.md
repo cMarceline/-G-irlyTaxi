@@ -1,0 +1,2 @@
+Critical tenet of F-Zero
+# SHOULD THERE BE SEPARATED TIMER AND HEALTH???

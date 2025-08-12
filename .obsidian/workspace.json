@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "Random Ideas to Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World"
+              "title": "Random Ideas to Action"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "Random Ideas to Action.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for World"
+              "title": "Backlinks for Random Ideas to Action"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "Random Ideas to Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from World"
+              "title": "Outgoing links from Random Ideas to Action"
             }
           },
           {
@@ -195,15 +195,17 @@
   },
   "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
+    "Karting/Timer.md",
+    "Random Ideas to Action.md",
+    "Karting/Boost Gauge.md",
     "Karting/Karting States.md",
     "World/World.md",
-    "World",
-    "Karting/Boost Gauge.md",
-    "Karting",
-    "Design Docs/Core Tenets Of The Game.md",
-    "Todo List.md",
-    "Marcie's Instructions.md",
     "Home Page.md",
+    "Marcie's Instructions.md",
+    "Todo List.md",
+    "Design Docs/Core Tenets Of The Game.md",
+    "World",
+    "Karting",
     "conflict-files-obsidian-git.md",
     "Art",
     "Design Docs",
@@ -229,8 +231,6 @@
     "Gear/Cyberware/Cyberlegs.md",
     "Gear/Cyberware/Chipware Socket.md",
     "World/Australia/West Australia/Perth/Districts/Red District.md",
-    "World/Australia/West Australia/Perth/Districts/Green District.md",
-    "Untitled 1.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
