@@ -1,4 +1,1 @@
-Wowie chat this is craazyyy
-
-
-wowie did yall know that the word the has 3 letters
+Alright Gangalang this is more me (Marcie) handing out instructions for you

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Docs/Core Tenets Of The Game.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Core Tenets Of The Game"
+              "title": "Home Page"
             }
           }
         ]
@@ -180,8 +180,8 @@
   },
   "active": "ebd37f19d0d0e9b8",
   "lastOpenFiles": [
-    "Home Page.md",
     "Design Docs/Core Tenets Of The Game.md",
+    "Home Page.md",
     "Art",
     "Design Docs",
     "Lore",
