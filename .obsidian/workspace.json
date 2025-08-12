@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebd37f19d0d0e9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home Page"
-            }
-          },
-          {
             "id": "a2a0e8a5f1e60b02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marcie's Instructions.md",
+                "file": "Design Docs/Core Tenets Of The Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marcie's Instructions"
+              "title": "Core Tenets Of The Game"
+            }
+          },
+          {
+            "id": "1ede8ba06a009d5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/World.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "World"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
+                "file": "World/World.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stick Darkley"
+              "title": "Backlinks for World"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
+                "file": "World/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Stick Darkley"
+              "title": "Outgoing links from World"
             }
           },
           {
@@ -177,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,13 +193,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2a0e8a5f1e60b02",
+  "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
+    "Karting/Karting States.md",
+    "World/World.md",
+    "World",
+    "Karting/Boost Gauge.md",
+    "Karting",
+    "Design Docs/Core Tenets Of The Game.md",
     "Todo List.md",
     "Marcie's Instructions.md",
-    "conflict-files-obsidian-git.md",
     "Home Page.md",
-    "Design Docs/Core Tenets Of The Game.md",
+    "conflict-files-obsidian-git.md",
     "Art",
     "Design Docs",
     "Lore",
@@ -217,10 +222,8 @@
     "Sourcebooks/Pacific Rim.md",
     "Gear/Weapons",
     "Gear",
-    "Cyberware/Untitled",
     "Gear/Cyberware/MicrowaveEMP Shielding.md",
     "Gear/Cyberware/Bodyweight Vein Clips.md",
-    "Sourcebooks/Chromebook 1-2.pdf",
     "Gear/Cyberware/Corvette Cyberlegs.md",
     "Gear/Cyberware/Chemical Analyser.md",
     "Gear/Cyberware/Cyberlegs.md",
@@ -228,9 +231,6 @@
     "World/Australia/West Australia/Perth/Districts/Red District.md",
     "World/Australia/West Australia/Perth/Districts/Green District.md",
     "Untitled 1.md",
-    "Slang.md",
-    "Gear/Cyberware/Times Square Plus.md",
-    "Characters/NPCs/Rake's Partner.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
