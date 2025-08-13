@@ -11,14 +11,17 @@
             "id": "a2a0e8a5f1e60b02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Design Docs/Core Tenets Of The Game.md",
-                "mode": "source",
-                "source": false
+                "file": "Influences/Moodboard.canvas",
+                "viewState": {
+                  "x": 759.8263281356093,
+                  "y": 232.6204764227961,
+                  "zoom": -1.1599168547444814
+                }
               },
-              "icon": "lucide-file",
-              "title": "Core Tenets Of The Game"
+              "icon": "lucide-layout-dashboard",
+              "title": "Moodboard"
             }
           },
           {
@@ -35,8 +38,7 @@
               "title": "Marcie's Instructions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,21 +195,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ede8ba06a009d5f",
+  "active": "a2a0e8a5f1e60b02",
   "lastOpenFiles": [
-    "Karting/Timer.md",
+    "Snippets/canvas_file_fix.css",
+    "Snippets/canvas_file_fix.css.rtf",
+    "Snippets",
+    "Images/c445f1a43dc658316462f5d2912f4245.jpg",
+    "Influences/Moodboard.canvas",
+    "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
+    "Images/a9e57f4f42f96edadcfaae4b3929966a.jpg",
+    "Images/647322f482adabcc1671722dd9d7b8bb.jpg",
+    "Images/1bc4aae3a42aeff211f8986a0d2d0065.jpg",
+    "Images/39e82eb272035cff7e642a9fdd18bec2.jpg",
+    "Images/13414474ec830dc26e84764add18dd83.jpg",
+    "Images/e507c0ad1c679df5bc4af836e69d9791.jpg",
+    "Images/5f8cc8c6d25fea7e17d3fccd85b2ab23.jpg",
+    "Images",
+    "Influences/Wipeout.md",
     "Karting/Karting States.md",
     "Karting/Boost Gauge.md",
-    "Design Docs/Core Tenets Of The Game.md",
-    "Influences/Wipeout.md",
-    "Influences/F-Zero.md",
-    "Influences/Crazy Taxi.md",
-    "Influences",
-    "Random Ideas.md",
     "World/World.md",
     "Home Page.md",
-    "Marcie's Instructions.md",
     "Todo List.md",
+    "Random Ideas.md",
+    "Marcie's Instructions.md",
+    "Influences/Crazy Taxi.md",
+    "Influences/F-Zero.md",
+    "Design Docs/Core Tenets Of The Game.md",
+    "Karting/Timer.md",
+    "Influences",
     "World",
     "Karting",
     "conflict-files-obsidian-git.md",
@@ -215,8 +231,6 @@
     "Design Docs",
     "Lore",
     "Characters/Player Characters/!Retired",
-    "Characters/Player Characters/Cello's Inevitable Char",
-    "Characters/Player Characters/Stick Darkley/CharSheet.pdf",
     "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
     "Tools/Callouts.md",
     "!Templates/Characters/Player Character.md",
@@ -226,13 +240,10 @@
     "!Templates/Characters/Expendables.md",
     "Gear/Cyberware/Speedware.md",
     "Sourcebooks/Pacific Rim.md",
-    "Gear/Weapons",
     "Gear/Cyberware/MicrowaveEMP Shielding.md",
     "Gear/Cyberware/Bodyweight Vein Clips.md",
     "Gear/Cyberware/Corvette Cyberlegs.md",
-    "Gear/Cyberware/Chemical Analyser.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
-    "World/Australia/Australia Timeline.canvas",
-    "Pasted image 20250618013735.png"
+    "World/Australia/Australia Timeline.canvas"
   ]
 }
