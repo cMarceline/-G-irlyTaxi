@@ -1,1 +1,1 @@
-Critical tenet of [[Crazy Taxi]], 
+Critical tenet of [[Influences|Crazy Taxi]], 
