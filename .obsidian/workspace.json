@@ -175,9 +175,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "353a154ca4feb62f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -196,14 +206,21 @@
   },
   "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
-    "Daily Notes/Untitled.md",
+    "conflict-files-obsidian-git.md",
     "Story/Beginning Premise.md",
+    "Influences/Influences.md",
+    "Gameplay Design/Karting/Timer.md",
+    "Gameplay Design/Karting/Karting States.md",
+    "Gameplay Design/Karting/Boost Gauge.md",
+    "Gameplay Design/UI FLow.canvas",
+    "Gameplay Design/Karting",
+    "Gameplay Design",
+    "Daily Notes/Untitled.md",
     "Daily Notes",
     "World/World.md",
     "Story",
     "Home Page.md",
     "Karting/Karting States.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "Influences/Moodboard.canvas",
     "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
@@ -230,17 +247,11 @@
     "World",
     "Karting",
     "Design Docs",
-    "Lore",
-    "Characters/Player Characters/!Retired",
     "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
     "Tools/Callouts.md",
     "!Templates/Characters/Player Character.md",
     "!Templates/Characters/Key Character.md",
     "!Templates/Characters/Gang.md",
-    "!Templates/Characters/Family.md",
-    "!Templates/Characters/Expendables.md",
-    "Gear/Cyberware/Speedware.md",
-    "Sourcebooks/Pacific Rim.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"

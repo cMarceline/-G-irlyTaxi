@@ -1,1 +1,0 @@
-Critical tenet of [[Crazy Taxi]], 
