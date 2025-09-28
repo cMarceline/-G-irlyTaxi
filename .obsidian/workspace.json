@@ -8,37 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d82b1633f3705fc",
+            "id": "a2a0e8a5f1e60b02",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Influences/Moodboard.canvas",
-                "viewState": {
-                  "x": 630,
-                  "y": 120,
-                  "zoom": -1.0747677684019723
-                }
+                "file": "Design Docs/Core Tenets Of The Game.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Moodboard"
+              "icon": "lucide-file",
+              "title": "Core Tenets Of The Game"
             }
           },
           {
-            "id": "f2d7c10054fcfe62",
+            "id": "1ede8ba06a009d5f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gameplay Design/UI FLow.canvas",
-                "viewState": {
-                  "x": 270.1820794553937,
-                  "y": 264.56938812480774,
-                  "zoom": -0.6666666666666667
-                }
+                "file": "Story/Beginning Premise.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "UI FLow"
+              "icon": "lucide-file",
+              "title": "Beginning Premise"
             }
           }
         ],
@@ -115,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gameplay Design/UI FLow.canvas",
+                "file": "Marcie's Instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UI FLow"
+              "title": "Backlinks for Marcie's Instructions"
             }
           },
           {
@@ -134,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gameplay Design/UI FLow.canvas",
+                "file": "Marcie's Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UI FLow"
+              "title": "Outgoing links from Marcie's Instructions"
             }
           },
           {
@@ -183,7 +177,7 @@
             }
           },
           {
-            "id": "db3aee2548b721c9",
+            "id": "353a154ca4feb62f",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -210,25 +204,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2d7c10054fcfe62",
+  "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
-    "Influences/Moodboard.canvas",
-    "Gameplay Design/UI FLow.canvas",
-    "Gameplay Design",
-    "World/World.md",
-    "Art/Pirate District.md",
-    "Random Ideas.md",
-    "Gameplay Design/Karting/Timer.md",
-    "Influences/Crazy Taxi.md",
-    "Influences/F-Zero.md",
-    "Influences/Wipeout.md",
-    "Influences/Influences.md",
-    "Gameplay Design/Karting/Karting States.md",
-    "Todo List.md",
-    "Home Page.md",
-    "Design Docs/Core Tenets Of The Game.md",
     "conflict-files-obsidian-git.md",
+    "Story/Beginning Premise.md",
+    "Influences/Influences.md",
+    "Gameplay Design/Karting/Timer.md",
+    "Gameplay Design/Karting/Karting States.md",
+    "Gameplay Design/Karting/Boost Gauge.md",
+    "Gameplay Design/UI FLow.canvas",
+    "Gameplay Design/Karting",
+    "Gameplay Design",
+    "Daily Notes/Untitled.md",
+    "Daily Notes",
+    "World/World.md",
+    "Story",
+    "Home Page.md",
+    "Karting/Karting States.md",
     "README.md",
+    "Influences/Moodboard.canvas",
     "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
     "Images/e507c0ad1c679df5bc4af836e69d9791.jpg",
     "Images/c445f1a43dc658316462f5d2912f4245.jpg",
@@ -238,25 +232,26 @@
     "Images/39e82eb272035cff7e642a9fdd18bec2.jpg",
     "Images/13414474ec830dc26e84764add18dd83.jpg",
     "Images",
+    "Art/Pirate District.md",
     "Art",
-    "Gameplay Design/Karting/Boost Gauge.md",
+    "Karting/Boost Gauge.md",
+    "Design Docs/Core Tenets Of The Game.md",
     "Marcie's Instructions.md",
+    "Karting/Timer.md",
+    "Influences/Wipeout.md",
+    "Influences/F-Zero.md",
+    "Influences/Crazy Taxi.md",
     "Influences",
+    "Random Ideas.md",
+    "Todo List.md",
     "World",
-    "Gameplay Design/Karting",
+    "Karting",
     "Design Docs",
-    "Lore",
-    "Characters/Player Characters/!Retired",
-    "Characters/Player Characters/Cello's Inevitable Char",
     "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
     "Tools/Callouts.md",
     "!Templates/Characters/Player Character.md",
     "!Templates/Characters/Key Character.md",
     "!Templates/Characters/Gang.md",
-    "!Templates/Characters/Family.md",
-    "!Templates/Characters/Expendables.md",
-    "Gear/Cyberware/Speedware.md",
-    "Sourcebooks/Pacific Rim.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
