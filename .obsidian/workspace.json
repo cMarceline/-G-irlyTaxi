@@ -25,17 +25,12 @@
             "id": "1ede8ba06a009d5f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Influences/Moodboard.canvas",
-                "viewState": {
-                  "x": 1029.9972545786209,
-                  "y": 510.86221404224096,
-                  "zoom": -0.9999999999999998
-                }
+                "file": "Images/Pasted image 20251230134238.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Moodboard"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251230134238"
             }
           }
         ],
@@ -207,18 +202,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ede8ba06a009d5f",
+  "active": "a659260cf40ffefd",
   "lastOpenFiles": [
-    "Pasted image 20251230140710.png",
-    "Pasted image 20251230140638.png",
-    "Pasted image 20251230140622.png",
-    "Pasted image 20251230140145.png",
-    "Pasted image 20251230135954.png",
-    "Pasted image 20251230135318.png",
-    "Pasted image 20251230134238.png",
+    "Influences/Moodboard.canvas",
+    "Images/Pasted image 20251230140710.png",
+    "Images/Pasted image 20251230140638.png",
+    "Images/Pasted image 20251230140622.png",
+    "Images/Pasted image 20251230140145.png",
+    "Images/Pasted image 20251230135954.png",
+    "Images/Pasted image 20251230135318.png",
+    "Images/Pasted image 20251230134238.png",
     "Design Docs/Core Tenets Of The Game.md",
     "Influences/Influences.md",
-    "Influences/Moodboard.canvas",
     "Design Docs/Master Design Overview.md",
     "Story/Beginning Premise.md",
     "conflict-files-obsidian-git.md",
@@ -238,7 +233,6 @@
     "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
     "Images/e507c0ad1c679df5bc4af836e69d9791.jpg",
     "Images/c445f1a43dc658316462f5d2912f4245.jpg",
-    "Images/a9e57f4f42f96edadcfaae4b3929966a.jpg",
     "Images",
     "Art/Pirate District.md",
     "Art",
