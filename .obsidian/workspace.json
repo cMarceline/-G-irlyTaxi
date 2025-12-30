@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Docs/Master Design Overview.md",
+                "file": "Design Docs/Core Tenets Of The Game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Design Overview"
+              "title": "Core Tenets Of The Game"
             }
           }
         ],
@@ -206,11 +206,12 @@
   },
   "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
-    "Design Docs/Core Tenets Of The Game.md",
+    "Influences/Influences.md",
+    "Influences/Moodboard.canvas",
     "Design Docs/Master Design Overview.md",
+    "Design Docs/Core Tenets Of The Game.md",
     "Story/Beginning Premise.md",
     "conflict-files-obsidian-git.md",
-    "Influences/Influences.md",
     "Gameplay Design/Karting/Timer.md",
     "Gameplay Design/Karting/Karting States.md",
     "Gameplay Design/Karting/Boost Gauge.md",
@@ -224,7 +225,6 @@
     "Home Page.md",
     "Karting/Karting States.md",
     "README.md",
-    "Influences/Moodboard.canvas",
     "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
     "Images/e507c0ad1c679df5bc4af836e69d9791.jpg",
     "Images/c445f1a43dc658316462f5d2912f4245.jpg",
@@ -251,7 +251,6 @@
     "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
     "Tools/Callouts.md",
     "!Templates/Characters/Player Character.md",
-    "!Templates/Characters/Key Character.md",
     "World/Australia/West Australia/Perth/Perth Toner.png",
     "World/Australia/Australia Timeline.canvas",
     "Pasted image 20250618013735.png"
