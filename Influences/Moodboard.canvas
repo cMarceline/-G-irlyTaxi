@@ -15,7 +15,7 @@
 		{"id":"f20cd546b3a833e5","type":"file","file":"Images/a9e57f4f42f96edadcfaae4b3929966a.jpg","x":900,"y":-180,"width":405,"height":400},
 		{"id":"c5b6da4ee1c15f3b","type":"file","file":"Images/647322f482adabcc1671722dd9d7b8bb.jpg","x":1320,"y":-439,"width":324,"height":405},
 		{"id":"90091ee09423c67d","type":"file","file":"Images/Pasted image 20251230134238.png","x":1660,"y":-439,"width":440,"height":550},
-		{"id":"df61a4a735f394f2","type":"file","file":"Images/Pasted image 20251230135318.png","x":1660,"y":120,"width":440,"height":293},
+		{"id":"df61a4a735f394f2","type":"file","file":"Images/Pasted image 20251230135318.png","x":1660,"y":120,"width":439,"height":293},
 		{"id":"9aad3370dd425169","type":"file","file":"Images/Pasted image 20251230140145.png","x":900,"y":240,"width":405,"height":228},
 		{
 			"id":"79b2971e2f738253",
@@ -39,7 +39,8 @@
 			"y":-680,
 			"width":360,
 			"height":200
-		}
+		},
+		{"id":"2c62f9e81cc0d651","type":"file","file":"1967-speed-racer-mach-5.jpg","x":620,"y":780,"width":400,"height":267}
 	],
 	"edges":[],
 	"metadata":{

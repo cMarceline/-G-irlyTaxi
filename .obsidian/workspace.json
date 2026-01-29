@@ -25,12 +25,17 @@
             "id": "1ede8ba06a009d5f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Images/Pasted image 20251230134238.png"
+                "file": "Influences/Moodboard.canvas",
+                "viewState": {
+                  "x": -59.375298513549524,
+                  "y": -6.8251357451176204,
+                  "zoom": 1.1102230246251565e-16
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251230134238"
+              "icon": "lucide-layout-dashboard",
+              "title": "Moodboard"
             }
           }
         ],
@@ -202,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a659260cf40ffefd",
+  "active": "1ede8ba06a009d5f",
   "lastOpenFiles": [
+    "1967-speed-racer-mach-5.jpg",
+    "Images/Pasted image 20251230134238.png",
     "Influences/Moodboard.canvas",
     "Images/Pasted image 20251230140710.png",
     "Images/Pasted image 20251230140638.png",
@@ -211,7 +218,6 @@
     "Images/Pasted image 20251230140145.png",
     "Images/Pasted image 20251230135954.png",
     "Images/Pasted image 20251230135318.png",
-    "Images/Pasted image 20251230134238.png",
     "Design Docs/Core Tenets Of The Game.md",
     "Influences/Influences.md",
     "Design Docs/Master Design Overview.md",
