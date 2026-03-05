@@ -1,19 +1,53 @@
 {
 	"nodes":[
-		{"id":"063235e5bcbacb7b","type":"group","x":600,"y":-460,"width":1560,"height":1160,"color":"4","label":"Environment Design"},
+		{"id":"063235e5bcbacb7b","type":"group","x":600,"y":-460,"width":1520,"height":1160,"color":"4","label":"Environment Design - CITY"},
 		{"id":"835c9af44d5e1853","type":"group","x":-900,"y":-460,"width":1480,"height":1160,"color":"5","label":"Visual Language"},
+		{"id":"473129f9ea1a7b03","type":"group","x":600,"y":760,"width":1520,"height":780,"color":"1","label":"Vehicle Design"},
+		{"id":"4d31f01e3693a8e2","type":"group","x":-900,"y":760,"width":1480,"height":780,"color":"6","label":"UI"},
+		{"id":"e08b9e4b01ac1ae2","type":"group","x":2140,"y":-460,"width":940,"height":1160,"color":"2","label":"Environment Design - Garage"},
 		{"id":"2f793d49eb543d6c","type":"file","file":"Images/e507c0ad1c679df5bc4af836e69d9791.jpg","x":-860,"y":-430,"width":405,"height":405},
 		{"id":"110754e8ed6ee519","type":"file","file":"Images/c445f1a43dc658316462f5d2912f4245.jpg","x":-418,"y":-430,"width":236,"height":405},
 		{"id":"d85fd14cdcf3e4ce","type":"file","file":"Images/5f8cc8c6d25fea7e17d3fccd85b2ab23.jpg","x":-860,"y":-2,"width":405,"height":205},
 		{"id":"54105c0e16990fd2","type":"file","file":"Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg","x":620,"y":-439,"width":270,"height":480},
 		{"id":"71796326cb0bdce9","type":"file","file":"Images/13414474ec830dc26e84764add18dd83.jpg","x":620,"y":60,"width":270,"height":405},
-		{"id":"6a8436ced81ad0b3","type":"file","file":"Images/39e82eb272035cff7e642a9fdd18bec2.jpg","x":920,"y":-439,"width":405,"height":241},
-		{"id":"f20cd546b3a833e5","type":"file","file":"Images/a9e57f4f42f96edadcfaae4b3929966a.jpg","x":920,"y":-159,"width":405,"height":400},
-		{"id":"c5b6da4ee1c15f3b","type":"file","file":"Images/647322f482adabcc1671722dd9d7b8bb.jpg","x":1360,"y":-439,"width":324,"height":405}
+		{"id":"1a180985eebca3d7","type":"file","file":"Images/Pasted image 20251230135954.png","x":-160,"y":-430,"width":720,"height":405},
+		{"id":"6a8436ced81ad0b3","type":"file","file":"Images/39e82eb272035cff7e642a9fdd18bec2.jpg","x":900,"y":-439,"width":405,"height":241},
+		{"id":"f20cd546b3a833e5","type":"file","file":"Images/a9e57f4f42f96edadcfaae4b3929966a.jpg","x":900,"y":-180,"width":405,"height":400},
+		{"id":"c5b6da4ee1c15f3b","type":"file","file":"Images/647322f482adabcc1671722dd9d7b8bb.jpg","x":1320,"y":-439,"width":324,"height":405},
+		{"id":"90091ee09423c67d","type":"file","file":"Images/Pasted image 20251230134238.png","x":1660,"y":-439,"width":440,"height":550},
+		{"id":"df61a4a735f394f2","type":"file","file":"Images/Pasted image 20251230135318.png","x":1660,"y":120,"width":439,"height":293},
+		{"id":"9aad3370dd425169","type":"file","file":"Images/Pasted image 20251230140145.png","x":900,"y":240,"width":405,"height":228},
+		{
+			"id":"79b2971e2f738253",
+			"type":"text",
+			"text":"City should feel like the Milkmans Conspiracy from Psychonauts\n\nSuper Mario Galaxy",
+			"styleAttributes":{},
+			"x":1840,
+			"y":-720,
+			"width":260,
+			"height":240
+		},
+		{"id":"d960b754454c0954","type":"file","file":"Images/Pasted image 20251230140622.png","x":2160,"y":-439,"width":593,"height":275},
+		{"id":"2c62f9e81cc0d651","type":"file","file":"1967-speed-racer-mach-5.jpg","x":620,"y":780,"width":400,"height":267},
+		{"id":"dbdfb6443eb8db67","type":"file","file":"Images/Pasted image 20251230140638.png","x":2160,"y":-146,"width":480,"height":270},
+		{"id":"00874dc3dabd6154","type":"file","file":"Images/Pasted image 20251230140710.png","x":2660,"y":-146,"width":400,"height":225},
+		{
+			"id":"e910ff3c4b32130f",
+			"type":"text",
+			"text":"Space for the main menu, ",
+			"styleAttributes":{},
+			"x":2720,
+			"y":-680,
+			"width":360,
+			"height":200
+		},
+		{"id":"df90927e1d3a0dde","x":-742,"y":-1240,"width":1040,"height":520,"type":"file","file":"Pasted image 20260305234048.png"},
+		{"id":"a90272f82731a9e8","x":-50,"y":-1080,"width":250,"height":60,"type":"text","text":"Feminism TS"}
 	],
 	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{},
+		"startNode":"5f806cfd662d9194"
 	}
 }

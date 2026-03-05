@@ -37,9 +37,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Moodboard"
             }
+          },
+          {
+            "id": "f59227623bad0933",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Influences/Moodboard.canvas",
+                "viewState": {
+                  "x": -115.93594037442186,
+                  "y": -276.08803954615433,
+                  "zoom": -1.2000000000000002
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Moodboard"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,13 +224,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f647120af416cf3",
+  "active": "f59227623bad0933",
   "lastOpenFiles": [
+    "Pasted image 20260305234048.png",
+    "conflict-files-obsidian-git.md",
+    "Influences/Moodboard.canvas",
+    "Images/Pasted image 20251230140710.png",
+    "Images/Pasted image 20251230140638.png",
+    "Images/Pasted image 20251230140622.png",
+    "Images/Pasted image 20251230140145.png",
+    "Images/Pasted image 20251230135954.png",
+    "Images/Pasted image 20251230135318.png",
+    "Images/Pasted image 20251230134238.png",
+    "Design Docs/Master Design Overview.md",
+    "1967-speed-racer-mach-5.jpg",
     "Images/5f8cc8c6d25fea7e17d3fccd85b2ab23.jpg",
     "Images/39e82eb272035cff7e642a9fdd18bec2.jpg",
     "Design Docs/Core Tenets Of The Game.md",
     "Story/Beginning Premise.md",
-    "conflict-files-obsidian-git.md",
     "Influences/Influences.md",
     "Gameplay Design/Karting/Timer.md",
     "Gameplay Design/Karting/Karting States.md",
@@ -228,13 +256,6 @@
     "Home Page.md",
     "Karting/Karting States.md",
     "README.md",
-    "Influences/Moodboard.canvas",
-    "Images/e921abc14b6f1ef7677ee2e4f9ab40f5.jpg",
-    "Images/e507c0ad1c679df5bc4af836e69d9791.jpg",
-    "Images/c445f1a43dc658316462f5d2912f4245.jpg",
-    "Images/a9e57f4f42f96edadcfaae4b3929966a.jpg",
-    "Images/647322f482adabcc1671722dd9d7b8bb.jpg",
-    "Images/13414474ec830dc26e84764add18dd83.jpg",
     "Images",
     "Art/Pirate District.md",
     "Art",
@@ -253,9 +274,6 @@
     "Characters/Player Characters/Stick Darkley/Stick Darkley.md",
     "Tools/Callouts.md",
     "!Templates/Characters/Player Character.md",
-    "!Templates/Characters/Key Character.md",
-    "World/Australia/West Australia/Perth/Perth Toner.png",
-    "World/Australia/Australia Timeline.canvas",
-    "Pasted image 20250618013735.png"
+    "World/Australia/Australia Timeline.canvas"
   ]
 }
